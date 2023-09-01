@@ -1,3 +1,3 @@
 ## README
 
-This repository is for the September LeetCoding Challenge
+This repository is for LeetCode Challenges
